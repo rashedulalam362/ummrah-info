@@ -1,0 +1,17 @@
+body{
+    background-color: darkgrey;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+
+.info{
+    border: 1px solid rgb(59, 0, 0);
+
+}
+info a :hover{
+    background-color:red;
+}
